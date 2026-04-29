@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 usuario: Jhon Harold Riosusuario: Jhon Harold Rios
 Correo: haroldrios2603@gmail.com
+=======
+
+correo:haroldrios2603@gmail.com
+\ncorreo: haroldrios2603@gmail.com
+>>>>>>> 42955475bd35f067976bc870a2df5b71b223838f
